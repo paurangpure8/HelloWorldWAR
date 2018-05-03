@@ -1,9 +1,9 @@
 <html>
 <head>
-<title>Hello World!</title>
+<title>DevOps Demo</title>
 </head>
 <body>
-	<h1>Hello World!</h1>
+	<h1>Hello Team this is DevOps demo using Chef!</h1>
 	<p>
 		It is now
 		<%= new java.util.Date() %></p>
